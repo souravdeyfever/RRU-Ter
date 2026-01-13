@@ -1,2 +1,2 @@
-# RRU-Ter
-Application Visualization of terrorism data and extaction
+# Raksha-Geo-Analytics-Terrorism-Data-Portal
+Visualization and Analytics of Terrorism data

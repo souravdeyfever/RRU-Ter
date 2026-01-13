@@ -1,0 +1,13 @@
+streamlit
+pandas
+folium
+streamlit-folium
+networkx
+pyvis
+textblob
+beautifulsoup4
+requests
+fake-useragent
+lxml
+feedparser
+matplotlib
